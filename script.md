@@ -2,10 +2,11 @@ Slide 1
 -------
 * My name is John Karahalis. I am a Computer Science student here at the 
   Rochester Institute of Technology.
-* I'm here to talk to you about my internship at Mozilla.
-* The title of my talk is "MDN Development Process Improvements: Tales of an 
-  Engagement intern doing software engineering". The MDN is the Mozilla 
-  Developer Network, Mozilla's documentation and education website.
+* I wanted to thank Remy for inviting me here to talk about my co-op at 
+  Mozilla.
+* The title of my talk is "MDN Development Process Improvements". The MDN, for 
+  those who don't know, is the Mozilla Developer Network, Mozilla's 
+  documentation and education website.
 
 Slide 2
 -------
@@ -15,8 +16,7 @@ Slide 2
   just a few seconds and realize why it needs to be fixed. That's the kind of 
   stuff I love doing. By the way, there's a door just like this [point] over 
   there. Anyone who has ever come through here has probably run into it before.  
-  And I mean that literally. Anyone who has ever come through here has probably 
-  RUN INTO it before.
+  And I mean that literally. RUN INTO it.
 * My work this summer involved three areas: engagement, user research, and
   software engineering
 
@@ -24,8 +24,8 @@ Slide 3
 -------
 * Engagement.
 * My biggest engagement project this summer was my work to promote the June Dev 
-  Derby, a contest that encouraged creative web developers to share their work 
-  with the world.
+  Derby, a contest that encourages creative web developers to compete for 
+  prizes while sharing their work with the world.
 * I searched for developers doing interesting work, learned as much as I could 
   about them, and "started the conversation".
 
@@ -56,26 +56,25 @@ Slide 5
     * My favorite was a user who mentioned that he was burned ever since the 
       site went offline for an extended period of time a couple of years ago.  
       It didn't, but it was an important point nonetheless. The site did 
-      something to make this user believe it was broken, and we should fix that 
-      in the future.
+      something to make this user believe it was broken, and we should fix 
+      that.
 
 Slide 6
 -------
-* And finally, my main focus this summer. I was hired for this internship 
-  especially because I had experience with Scrum, a software engineering 
-  framework.
+* And finally, my main focus this summer. I was hired by Mozilla especially 
+  because I had experience with Scrum, a software engineering framework.
 * This team had never used Scrum before, so I started slow.
     * I created a product backlog, a big, definitive list of features and met 
       with the team every three weeks to create a Sprint backlog, a list of 
-      product backlog items to complete over the three week period.
-* But most importantly, I started retrospective discussion -- a chance for the 
-  team to identify what aspects of our process were working well and what 
-  aspects weren't. As far as I am concerned, these discussions are the 
-  cornerstones of Scrum.
-* In these last few slides, I will outline some of the improvements that I 
-  implemented in response to these discussions. Bear with me -- there are many 
-  examples here (and this list doesn't even include everything!), but I think 
-  it gives a great overview of the process improvements that were made.
+      product backlog items to complete over a three week period.
+* Most importantly, I started retrospective discussion -- a chance for the team 
+  to identify what aspects of our process were working well and what aspects 
+  weren't. As far as I am concerned, these discussions are the cornerstones of 
+  Scrum.
+* In these last few slides, I will outline some of the improvements that I made 
+  in response to these discussions. Bear with me -- there are many examples 
+  here, but I think it gives a great overview of the process improvements that 
+  were made.
 
 Slide 7
 -------
